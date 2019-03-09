@@ -1,3 +1,13 @@
+<<<<<<<<< Temporary merge branch 1
+hello praveen
+||||||||| merged common ancestors
+=========
 hello
 hi
 who is this
+<<<<<<< HEAD
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+>>>>>>> india
+>>>>>>> telangana
